@@ -37,7 +37,7 @@ int main()
     /** char_dizi ile ilgili bazı fonksiyonlar: **/
     char YourName[20];
     gets(YourName);     // scanf yerine strings için!
-    int stringgh_length= strlen(YourName);
+    int stringgh_length= strlen(YourName);    // strlen: bir karakter dizisinin (string) uzunluğunu gösterir
     strcpy(YourName,"new string");
     strcat(YourName,"this will be added to the end");
     strcmp("abiel","bol");     // sıfırdan küçük
@@ -46,3 +46,4 @@ int main()
     YourName[1]=tolower(YourName[1]);
     printf("%s:",YourName); // %s --> string yazdırma!
 }
+

@@ -1,0 +1,7 @@
+Merhaba, bu basit bir metin dosyasidir.
+Bu dosya C dilinde dosya okuma alistirmasi icin kullanilir.
+Her satir kisa ve aciktir.
+
+Dosyayi satir satir okuyabilirsin.
+Karakter karakter okumayi da deneyebilirsin.
+Dosyanin sonuna dikkat et.

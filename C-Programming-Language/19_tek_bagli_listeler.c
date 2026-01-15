@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 /*
 Bağlı listeler (Linked Lists), elemanların dinamik olarak eklenip
 silinebildiği veri yapılarıdır. Elemanlar düğüm (node) şeklindedir
@@ -112,3 +111,4 @@ int main()
 
 
 }
+

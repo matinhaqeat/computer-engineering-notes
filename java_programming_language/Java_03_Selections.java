@@ -52,6 +52,7 @@ public class Java_03_Selections {
 		 if(x>100) 	      week_day=1;
 		 else             week_day=2;
 		 */
+		//Nested Ternary:
 		week_day = (x>100)?    (x<1000)? 1  :   2 : 3;
 		/* 
 		 if(x>100) {
